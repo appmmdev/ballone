@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "league": "Portuguese Primeira Liga (Portugal)",
+            "timestamp": 1704767400000,
+            "hteam": "Man-City",
+            "himg": "https://w1.pngwing.com/pngs/203/356/png-transparent-premier-league-logo-manchester-manchester-city-fc-organization-line-area-circle-symbol.png",
+            "ateam": "Man-U",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "links": [
+                {
+                    "link": "http://williamson.com/vitae-qui-magni-nulla-reprehenderit-sunt.html"
+                },
+                {
+                    "link": "http://www.larkin.com/enim-non-ratione-aut-quia-blanditiis"
+                },
+                {
+                    "link": "http://www.rippin.net/magni-ea-possimus-eum-sint-consequatur-aperiam"
+                },
+                {
+                    "link": "http://brekke.biz/nam-voluptates-numquam-laborum-voluptas.html"
+                },
+                {
+                    "link": "http://www.leuschke.net/"
+                },
+                {
+                    "link": "http://hermann.org/"
+                }
+            ]
+        },
+        {
+            "league": "Russian Premier League (Russia)",
+            "timestamp": 1704774600000,
+            "hteam": "Man-U",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "ateam": "Arsenal",
+            "aimg": "https://w7.pngwing.com/pngs/301/556/png-transparent-arsenal-f-c-arsenal-l-f-c-premier-league-emirates-stadium-uefa-champions-league-arsenal-f-c-emblem-label-trademark.png",
+            "links": [
+                {
+                    "link": "https://www.medhurst.net/alias-sapiente-et-velit"
+                },
+                {
+                    "link": "https://www.veum.com/et-officia-quia-at-consequuntur-ipsum"
+                }
+            ]
+        },
+        {
+            "league": "Brasileirão Serie A (Brazil)",
+            "timestamp": 1704774600000,
+            "hteam": "A-Villa",
+            "himg": "https://logohistory.net/wp-content/uploads/2023/08/Aston-Villa-Logo.png",
+            "ateam": "Liverpool",
+            "aimg": "https://logowik.com/content/uploads/images/526_liverpoolfc.jpg",
+            "links": [
+                {
+                    "link": "http://mante.info/et-reiciendis-accusamus-quis-aliquam-et-eos"
+                }
+            ]
+        },
+        {
+            "league": "Major League Soccer (MLS - USA and Canada)",
+            "timestamp": 1704781800000,
+            "hteam": "Man-U",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "ateam": "Man-City",
+            "aimg": "https://w1.pngwing.com/pngs/203/356/png-transparent-premier-league-logo-manchester-manchester-city-fc-organization-line-area-circle-symbol.png",
+            "links": [
+                {
+                    "link": "http://www.runte.com/"
+                },
+                {
+                    "link": "https://www.wiegand.com/odit-sapiente-expedita-voluptas-sed-eum"
+                },
+                {
+                    "link": "http://huels.com/dolorem-et-quam-sunt-quibusdam-iste.html"
+                },
+                {
+                    "link": "http://www.bergstrom.biz/animi-distinctio-molestiae-nam"
+                }
+            ]
+        },
+        {
+            "league": "Bundesliga (Germany)",
+            "timestamp": 1704781800000,
+            "hteam": "Hotspur",
+            "himg": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ee.png",
+            "ateam": "A-Villa",
+            "aimg": "https://logohistory.net/wp-content/uploads/2023/08/Aston-Villa-Logo.png",
+            "links": [
+                {
+                    "link": "http://gerlach.biz/nisi-quia-minima-dolores-saepe"
+                },
+                {
+                    "link": "http://www.gislason.com/in-molestiae-dignissimos-asperiores-est-accusamus-dolores"
+                }
+            ]
+        },
+        {
+            "league": "Brasileirão Serie A (Brazil)",
+            "timestamp": 1704781800000,
+            "hteam": "Man-City",
+            "himg": "https://w1.pngwing.com/pngs/203/356/png-transparent-premier-league-logo-manchester-manchester-city-fc-organization-line-area-circle-symbol.png",
+            "ateam": "Man-U",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "links": []
+        },
+        {
+            "league": "English Premier League (England)",
+            "timestamp": 1704789000000,
+            "hteam": "Liverpool",
+            "himg": "https://logowik.com/content/uploads/images/526_liverpoolfc.jpg",
+            "ateam": "Arsenal",
+            "aimg": "https://w7.pngwing.com/pngs/301/556/png-transparent-arsenal-f-c-arsenal-l-f-c-premier-league-emirates-stadium-uefa-champions-league-arsenal-f-c-emblem-label-trademark.png",
+            "links": []
+        },
+        {
+            "league": "Brasileirão Serie A (Brazil)",
+            "timestamp": 1704789000000,
+            "hteam": "Hotspur",
+            "himg": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ee.png",
+            "ateam": "Man-City",
+            "aimg": "https://w1.pngwing.com/pngs/203/356/png-transparent-premier-league-logo-manchester-manchester-city-fc-organization-line-area-circle-symbol.png",
+            "links": []
+        },
+        {
+            "league": "La Liga (Spain)",
+            "timestamp": 1704789000000,
+            "hteam": "Liverpool",
+            "himg": "https://logowik.com/content/uploads/images/526_liverpoolfc.jpg",
+            "ateam": "A-Villa",
+            "aimg": "https://logohistory.net/wp-content/uploads/2023/08/Aston-Villa-Logo.png",
+            "links": []
+        },
+        {
+            "league": "Argentine Primera División (Argentina)",
+            "timestamp": 1704789000000,
+            "hteam": "Arsenal",
+            "himg": "https://w7.pngwing.com/pngs/301/556/png-transparent-arsenal-f-c-arsenal-l-f-c-premier-league-emirates-stadium-uefa-champions-league-arsenal-f-c-emblem-label-trademark.png",
+            "ateam": "Hotspur",
+            "aimg": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c4ee.png",
+            "links": []
+        }
+    ]
+}
