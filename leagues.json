@@ -1,0 +1,50 @@
+[
+    {
+        "league_name": "English Premier League (England)",
+        "image": "https://logowik.com/content/uploads/images/premier-league3330.jpg"
+    },
+    {
+        "league_name": "La Liga (Spain)",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2023/06/la-liga-logo-822870770-1.jpg"
+    },
+    {
+        "league_name": "Bundesliga (Germany)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+    },
+    {
+        "league_name": "Serie A (Italy)",
+        "image": "https://i.pinimg.com/originals/2e/86/50/2e86505cb4d1d37b4a40a30b3162169a.png"
+    },
+    {
+        "league_name": "Ligue 1 (France)",
+        "image": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2017.png"
+    },
+    {
+        "league_name": "Major League Soccer (MLS - USA and Canada)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MLS_crest_logo_RGB_-_Toronto_FC.svg/640px-MLS_crest_logo_RGB_-_Toronto_FC.svg.png"
+    },
+    {
+        "league_name": "Brasileirão Serie A (Brazil)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/04/Campeonato_Brasileiro_S%C3%A9rie_A.png"
+    },
+    {
+        "league_name": "Argentine Primera División (Argentina)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png?20210802144700"
+    },
+    {
+        "league_name": "Eredivisie (Netherlands)",
+        "image": "https://www.liblogo.com/img-logo/er2272e3cc-eredivisie-logo-eredivisie-cv-european-leagues.png"
+    },
+    {
+        "league_name": "Portuguese Primeira Liga (Portugal)",
+        "image": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+    },
+    {
+        "league_name": "Russian Premier League (Russia)",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c56af583006587.5d2f062827b3f.png"
+    },
+    {
+        "league_name": "Chinese Super League (China)",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2350.png"
+    }
+]
